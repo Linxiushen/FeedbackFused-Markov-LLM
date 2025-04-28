@@ -1,5 +1,3 @@
-# FeedbackFused-Markov-LLM
-结合马尔可夫模型与大语言模型的智能对话系统，具有自动化反馈学习能力。该系统能够根据用户反馈自动调整马尔可夫模型的状态转移概率，提高系统响应的质量和相关性。
 # 马尔可夫-LLM集成系统
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)

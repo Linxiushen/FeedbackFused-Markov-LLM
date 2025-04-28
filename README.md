@@ -142,8 +142,10 @@ POST /api/admin/fine-tune
 
 ## 贡献
 
-欢迎提交Issue和Pull Request。在提交PR前，请确保代码通过所有测试。
+欢迎提交Issue和Pull Request。在提交PR前，请确保代码通过所有测试。a
 
 ## 许可证
 
 本项目采用MIT许可证。详情请参见LICENSE文件。 
+
+作者联系方式：1787979356@qq.com
